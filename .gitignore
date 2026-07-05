@@ -1,0 +1,12 @@
+# Compiled objects and executables
+*.o
+*.out
+*.exe
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+#OS
+.DS_Store
