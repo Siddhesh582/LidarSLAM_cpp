@@ -9,6 +9,6 @@ C++ LiDAR SLAM project.
 
 ## Build
 ```
-g++ -std=c++20 -T /usr/include/eigen3 -c simulator/Unicycle.cpp
+g++ -std=c++20 -I /usr/include/eigen3 -c simulator/Unicycle.cpp
 ```
 
